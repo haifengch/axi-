@@ -1,0 +1,14 @@
+./rtl/axi_interconnect.v
+./rtl/axi_crossbar.v
+./rtl/axi_m2s_m3.v
+./rtl/axi_s2m_s3.v
+./rtl/axi_default_slave.v
+./rtl/axi_fifo_sync.v
+./rtl/axi_arbiter_m2s_m3.v
+./rtl/axi_arbiter_s2m_s3.v
+./rtl/round_robin_m2s.v
+./rtl/round_robin_s2m.v
+./rtl/sid_buffer.v
+./rtl/reorder.v
+./rtl/apb_cfg/apb_cfg.v
+./sim/axi_interconnect_tb.v
